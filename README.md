@@ -46,13 +46,29 @@
 ---
 5.  코드 블럭
 
-```
+``` 
 
 "(`)"3개를 사용해서 블럭을 만들어서 사용자가 보기 더 편하게 만들어주는 기능이다
 제일 위에 3개
 밑에 3개를 넣어 만듬
 
+using System;
+
+namespace HelloWorldApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("잠이온당 ㅠㅠ");
+        }
+    }
+}
+
 ```
+---
   
 6. 링크 
 
