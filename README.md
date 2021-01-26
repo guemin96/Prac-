@@ -84,11 +84,11 @@ namespace HelloWorldApp
 ---
 
 7. 이미지 첨부하기 
-
+<br/><br/>
   1. 이미지를 다운받는다<br/><br/>(홈페이지 상의 주소를 받아와서 바로 해도 되지만 우선은 등록하는 걸로 하자)
   2. 다운받은 이미지를 내가 만든 GitRepository 폴더안에 이미지 파일 폴더를 따로 만들어 넣는다.
   3. 현재 깃 이름을 가진 폴더(Prac)로 가서 git 커밋 ->Main 버튼을 클릭 후 커밋&푸쉬를 해준다.
   4. 깃으로 들어가 사진이 등록되었는지 확인후 링크주소를 그대로 복사한다
   5.
   
-  [실행결과](https://github.com/guemin96/Prac-/tree/main/image)
+  ![실행결과](https://github.com/guemin96/Prac-/tree/main/image "실")
