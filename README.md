@@ -90,6 +90,6 @@ namespace HelloWorldApp
   - 다운받은 이미지를 내가 만든 GitRepository 폴더안에 이미지 파일 폴더를 따로 만들어 넣는다.
   - 현재 깃 이름을 가진 폴더(Prac)로 가서 git 커밋 ->Main 버튼을 클릭 후 커밋&푸쉬를 해준다.
   - 깃으로 들어가 사진이 등록되었는지 확인후 링크주소를 그대로 복사한다
-  -
+  - ! 위 링크형태 그래로 적용하기(모르겠으면 수정 들어가서 어떻게 했는지 보기)
   
-  ![실행결과](https://github.com/guemin96/StudyHtml/blob/main/ref_image/console_result.png)
+  ![실행결과](https://github.com/guemin96/Prac-/blob/main/image/B612_20190406_133924_095.jpg)
