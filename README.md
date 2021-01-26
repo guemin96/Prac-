@@ -91,4 +91,4 @@ namespace HelloWorldApp
   4. 깃으로 들어가 사진이 등록되었는지 확인후 링크주소를 그대로 복사한다
   5.
   
-  ![실행결과](https://github.com/guemin96/Prac-/tree/main/image "실")
+  ![실행결과](https://github.com/guemin96/Prac-/tree/main/image)
