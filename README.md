@@ -78,6 +78,8 @@ namespace HelloWorldApp
 
   - [Naver](http://www.naver.com )
   
-  
+이메일링크는 <> 안에 이메일 주소를 첨부하면 됨
+문의메일 : <guemin12@naver.com>
+
 ---
 
