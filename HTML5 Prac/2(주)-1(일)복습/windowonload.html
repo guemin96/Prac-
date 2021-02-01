@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script>
+        window.onload=function(){
+            var header=document.getElementById("header");
+            console.log(header.innerText);
+
+         
+            header.style.backgroundColor="red";
+            header.style.color="orange";
+            header.innerText ="집에 가자.."
+
+        }
+        function changeColor(Color){
+            var header= document.getElementById("header");
+            header.style.color= Color;
+        }
+    </script>
+</head>
+<body>
+    <h1 id="header"> header</h1>
+    <input type="button" value="change color" onclick="changeColor('green')">
+</body>
+</html>
