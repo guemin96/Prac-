@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var mama=function(){
+            for (let index = 0; index < 40; index++) {
+                $("<h1>무한 스크롤"+index+"</h1>").appendTo("body")}
+                
+            }
+            mama();
+
+            $(window).scroll(function () {
+                var scrollheight=$(window).scrollTop()+$(window).height();
+                var docHeight=$(document).height(); 
+                
+                if (scrollheight==docHeight) {
+                    mama();
+                    
+                }
+            });
+        })
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

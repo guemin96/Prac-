@@ -1,0 +1,29 @@
+
+    .box {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+
+    }
+
+    .box:nth-child(1) {
+        margin: 10px 0 0 10px;
+        background-color: red;
+        z-index: 100;
+    }
+
+    .box:nth-child(2) {
+        margin: 30px 0 0 30px;
+        background-color: royalblue;
+        z-index: 99;
+    }
+
+    .box:nth-child(3) {
+        margin: 50px 0 0 50px;
+        background-color: saddlebrown;
+        z-index: 101;
+    }
+    p{
+        position: absolute;
+        z-index: 4000;
+    }
