@@ -55,5 +55,3 @@ end as '회원 등급'
  left outer join VS right outer join
  오
  기준이 되는 테이블이 왼쪽/ 다른 한쪽이 오른쪽 
-
-
